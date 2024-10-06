@@ -1,0 +1,77 @@
+h2{
+    background-color: rgba(0, 0, 0, 0.719);
+    font-family:serif; 
+    margin: 1px;
+    padding: 25px; 
+    border: 8px double rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    border-radius: 50px;
+
+}
+
+
+h4 {
+border: 4px double rgb(255, 255, 255);
+margin: auto;
+background-color: rgb(0, 0, 0);
+color: white;
+border-radius: 5px;
+text-align-last: center;
+}
+
+h3{
+    border: 4px double rgb(255, 255, 255);
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 5px;
+    text-align-last: center;
+}
+h1{
+text-align-last: center;
+font-family: FreeMono;
+
+}
+body {
+
+background-image: url(https://tse2.mm.bing.net/th?id=OIP.PtBRCOl2Fi1eIWgjLl4S8wHaDN&pid=Api&P=0&h=180);
+
+
+}
+
+img {    
+border: 4px double rgb(255, 255, 255);
+margin:auto;
+background-color: rgb(0, 0, 0);
+color: white;
+border-radius: 5px;
+text-align: center;
+display: block;
+}
+p {
+    text-align-last:center;}
+
+h2{
+
+text-align: center;
+}
+column {
+    width: 100%;
+  }
+  
+  @media (min-width: 600px) {
+    .column {
+      width: 50%;
+    }
+  }
+
+  a{
+    order: 4px double rgb(255, 255, 255);
+    margin:auto;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    display: block;
+
+  }
